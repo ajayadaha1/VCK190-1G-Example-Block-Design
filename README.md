@@ -15,4 +15,4 @@ Once the example design is created, it utilizes the RTL files to build a Block D
    `source kuiper.sh`
 3. Launch Vivado 2022.1 with the example design script:
    `vivado -source create_example_design_first.tcl &`
-4. Project is located inside `Proj/axi_ethernet_0`
+4. Project is located inside `Proj/axi_ethernet_0_ex`
